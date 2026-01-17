@@ -1,4 +1,4 @@
-# PeaceSet
+# Omit
 
 A wellness-focused iOS app that helps people reduce compulsive phone use by enforcing app and website access rules using Apple's Screen Time APIs and presenting insights that combine usage signals with HealthKit signals into a single wellness score.
 
@@ -41,7 +41,7 @@ bundle exec pod install
 3. Add capabilities:
    - Family Controls
    - HealthKit
-   - App Groups (set to `group.com.peaceset.shared`)
+   - App Groups (set to `group.com.karimsaad.omit`)
 4. Configure signing for all extension targets
 5. Link PeaceSetShared package to all targets
 
@@ -62,7 +62,7 @@ Or build and run from Xcode (Cmd+R).
 ## Project Structure
 
 ```
-/PeaceSet
+/Omit
 ├── app/                      # React Native app
 │   ├── src/
 │   │   ├── core/            # Config, logging, constants
@@ -76,7 +76,7 @@ Or build and run from Xcode (Cmd+R).
 │   └── ios/                 # iOS project
 ├── ios/
 │   ├── Packages/            # Swift Package (PeaceSetShared)
-│   ├── PeaceSet/            # Main app
+│   ├── PeaceSetApp/         # Main app
 │   └── Extensions/          # iOS extensions
 └── docs/                    # Documentation
 ```
@@ -91,7 +91,7 @@ See [docs/privacy.md](docs/privacy.md) for our privacy policy.
 
 ## Wellness Disclaimer
 
-PeaceSet is a wellness tool designed to help you build healthier digital habits. It does not diagnose, treat, cure, or prevent any medical or mental health condition.
+Omit is a wellness tool designed to help you build healthier digital habits. It does not diagnose, treat, cure, or prevent any medical or mental health condition.
 
 If you have concerns about your mental health, please consult a qualified healthcare professional.
 

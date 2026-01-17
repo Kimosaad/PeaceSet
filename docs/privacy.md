@@ -1,8 +1,8 @@
-# PeaceSet Privacy Policy
+# Omit Privacy Policy
 
 ## Your Privacy Matters
 
-PeaceSet is designed with privacy as a core principle. All your personal data stays on your device.
+Omit is designed with privacy as a core principle. All your personal data stays on your device.
 
 ## Data We Collect
 
@@ -43,7 +43,7 @@ You can:
 
 ## Wellness Disclaimer
 
-PeaceSet is a wellness tool designed to help you build healthier digital habits. It does not diagnose, treat, cure, or prevent any medical or mental health condition.
+Omit is a wellness tool designed to help you build healthier digital habits. It does not diagnose, treat, cure, or prevent any medical or mental health condition.
 
 If you have concerns about your mental health, please consult a qualified healthcare professional.
 

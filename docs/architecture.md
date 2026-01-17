@@ -1,8 +1,8 @@
-# PeaceSet Architecture
+# Omit Architecture
 
 ## Overview
 
-PeaceSet is a wellness-focused iOS app that helps users reduce compulsive phone use through Screen Time enforcement and provides insights via a wellness score combining HealthKit and usage data.
+Omit is a wellness-focused iOS app that helps users reduce compulsive phone use through Screen Time enforcement and provides insights via a wellness score combining HealthKit and usage data.
 
 ## System Architecture
 
